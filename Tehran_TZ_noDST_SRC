@@ -1,0 +1,3 @@
+#Zone NAME           GMTOFF RULES/SAVE  FORMAT [UNTIL]
+Zone  Iran-noDST   3:30   -           IRST   2022 Mar 22 00:00
+                   3:30   -           IRST
